@@ -1,16 +1,26 @@
 ## Youtube link of playlist
   https://www.youtube.com/watch?v=FMKim9gGxwo&list=PL-kbgCAP54L2kmQd6UrI-ZaPqMAyw9mNK
   
-## Jun-14-2024
+  
+## Day-07
+![notebook](2024-06-17.jpg) 
+  
+## Day-06
+![notebook](2024-06-16.jpg) 
+ 
+## Day-05
+![notebook](2024-06-15.jpg)
+
+## Day-04
 ![notebook](2024-06-14.jpg)
 
-## Jun-13-2024
+## Day-03
   ![notebook](2024-06-13.jpg)
 
-## Jun-12-2024
+## Day-02
   ![notebook](2024-06-12.jpg)
 
-## Jun-11-2024
+## Day-01
   ![notebook](2024-06-11.jpg)
 
 
